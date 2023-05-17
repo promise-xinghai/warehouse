@@ -1,5 +1,5 @@
 # warehouse
-需要部署加QQ484139229
+需要部署加QQ484139229<br>
 基于java的仓库管理系统，mysql，eclipse和idea都可运行。有管理员页面，包括用户添加，商品添加以及仓库添加。普通用户页面，浏览商品信息以及仓库信息。适合课程大作业，不是那么复杂。包远程部署
 <br>管理员界面<br>
 ![image](https://github.com/promise-xinghai/warehouse/assets/133832761/6658e9b0-d171-498c-8cff-eb60e580bc30)
